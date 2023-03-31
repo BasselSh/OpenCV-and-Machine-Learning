@@ -15,8 +15,10 @@
 ![sinusoid](https://user-images.githubusercontent.com/51927257/229205922-f7fbef39-d753-4572-823e-4305854e20c8.jpg)
 
 
-##Stitching:
-![top](https://user-images.githubusercontent.com/51927257/229206142-f3b43fc6-eb89-4643-8659-c974c6299f00.jpg)    ![bottom](https://user-images.githubusercontent.com/51927257/229206187-0a59e6ef-131d-4a8c-ac53-dc72b32d5ba7.jpg)
+## Stitching:
+
+![top](https://user-images.githubusercontent.com/51927257/229206142-f3b43fc6-eb89-4643-8659-c974c6299f00.jpg)
+![bottom](https://user-images.githubusercontent.com/51927257/229206187-0a59e6ef-131d-4a8c-ac53-dc72b32d5ba7.jpg)
 
 
 ![stitch](https://user-images.githubusercontent.com/51927257/229206168-802fd1ae-f158-4002-976c-4648eb972937.jpg)
